@@ -1,0 +1,7 @@
+let estados = ["Acre", "Alagoas", "Amapá", "Amazonas", "Bahia", "Ceará","Distrito Federal", "Espírito Santo", "Goiás", "Maranhão"];
+
+
+for (i=0; i<=9; i++){
+  console.log(estados[i]);
+}
+
